@@ -1,0 +1,5 @@
+#avoid npm install malicious scripts
+
+#https://youtu.be/24tQRwIRP_w?t=1018
+
+npm config set ignore-scripts true
